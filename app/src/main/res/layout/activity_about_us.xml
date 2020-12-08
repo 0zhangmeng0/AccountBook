@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/bg"
+    tools:context=".AboutUsActivity"
+    android:orientation="vertical">
+    <TextView
+        style="@style/textstyle"
+        android:layout_height="100sp"
+        android:layout_gravity="center"
+        android:text="@string/about_us"
+        android:textColor="#101010"
+        android:textSize="50sp" />
+    <TextView
+        style="@style/textstyle"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/teammember"
+        android:textColor="#ffff"
+        android:textSize="30sp"/>
+
+
+</LinearLayout>

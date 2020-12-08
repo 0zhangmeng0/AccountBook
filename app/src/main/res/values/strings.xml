@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">记账本</string>
+    <string name="in_outcome">收入&amp;支出</string>
+    <string name="count">统计</string>
+    <string name="help_feedback">帮助和反馈</string>
+    <string name="about_us">关于我们</string>
+    <string name="classnum">计算机科学与技术一班</string>
+    <string name="teammember">小组成员\n张萌\n袁胜鸿\n卢杰\n廖小博</string>
+    <string name="detail_tab">明细</string>
+    <string name="category_report_tab">类别报表</string>
+    <string name="balance">结余(元)</string>
+    <string name="income">收入(元)</string>
+    <string name="outcome">支出(元)</string>
+    <string name="year">1999年</string>
+    <string name="match_last_month">相比上月支出</string>
+    <string name="default_value">0.00</string>
+    <string name="add_come">+ 记一笔</string>
+    <string name="feedback">感谢反馈</string>
+    <string name="feedback_input">提交反馈</string>
+    <string name="undo">功能开发中......</string>
+</resources>
